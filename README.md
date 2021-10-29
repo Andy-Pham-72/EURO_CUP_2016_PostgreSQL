@@ -3,10 +3,10 @@
 
 This repository contains my solutions for EURO_CUP_2016 mini-project questions.
 
-Please run the schema and table scripts that I created for PostgreSQL as [euro_cup_2016_PostgreSQL_andy_pham.sql](https://github.com/Andy-Pham-72/EURO_CUP_2016_PostgreSQL/tree/master/EURO_CUP_2016_data).
+Please run the schema and table scripts that I created for PostgreSQL as [euro_cup_2016_PostgreSQL_andy_pham.sql](https://github.com/Andy-Pham-72/EURO_CUP_2016_PostgreSQL/blob/master/Schema_and_tables_setup/euro_cup_2016_PostgreSQL_andy_pham.sql).
 
 All the solutions in the folder [Solutions](https://github.com/Andy-Pham-72/EURO_CUP_2016_PostgreSQL/tree/master/Solutions) as separated sql files.
 
-The `match_mast.csv` file was cleaned in order to be used with the table setup as `clean_match_mast.csv` file in the dataset folder.
+The `match_mast.csv` file was cleaned in order to be used with the table setup as `clean_match_mast.csv` file in the [dataset folder](https://github.com/Andy-Pham-72/EURO_CUP_2016_PostgreSQL/tree/master/EURO_CUP_2016_data).
 
 - **NOTE**: I also created schema and tables setup for MySQL workbench. However, some adjustments for the CSV files are needed in order to be imported into the tables.
